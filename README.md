@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 
 I´m Andrés Lara, a full stack developer from Colombia who specializes in front-end development. I´m very creative and a passionate learner who loves to explore new technologies.
 
@@ -10,24 +10,26 @@ I´m Andrés Lara, a full stack developer from Colombia who specializes in front
 
 
 
-### Some of my Repositories
+## Some of my Repositories
 
 <a href="https://github.com/Andres-lh/Musical-Instruments-eCommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=Musical-Instruments-eCommerce
-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
-</a>
-<a href="https://github.com/Andres-lh/MERN-Notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=MERN-Notes
-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
-</a>
-<a href="https://github.com/Andres-lh/SpotifyClone">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=SpotifyClone
-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=Musical-Instruments-eCommerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
 </a>
 
-<a href="https://github.com/braydoncoyer">
+<a href="https://github.com/Andres-lh/MERN-Notes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=MERN-Notes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
+</a>
+
+<a href="https://github.com/Andres-lh/SpotifyClone">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=SpotifyClone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
+</a>
+
+<a href="https://github.com/Andres-lh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-lh&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
 </a>
 
 ### Reach me
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-lara-921a691aa/)
+
+
+
