@@ -1,14 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/P0GMZKMhcY19SWdQhU/giphy.gif" width="100"/>
-  <h2>Hey there!</h2>
-  <h4> I'm Andres Lara a software developer who loves to create games and interactive applications</h3>
+  <img src="https://media.giphy.com/media/S6lQkeOcLiRRAwTVol/giphy.gif" width="100"/>
+  <h1>Hey there!</h1>
+  <h3> I'm Andres Lara a software developer who loves to create games and interactive applications.</h3>
 </div>
 
 <br/>
 
 <div align="center">
   <h2>Skills</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  
@@ -27,12 +27,11 @@
   
   <a href="https://github.com/Andres-lh/Pong">
     <img align="center" style=""src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=Pong&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
-    <a href="https://github.com/Andres-lh/MERN-Notes">
-
-<a href="https://github.com/Andres-lh/SpotifyClone">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=SpotifyClone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
-</a>
-
+  </a>
+  
+  <a href="https://github.com/Andres-lh/SpotifyClone">
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=SpotifyClone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
+  </a>
 </div>
   
 <br/>
@@ -40,6 +39,13 @@
 <div align="center">
   <h2 >Stats</h2>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andres-lh&show_icons=true&locale=en" alt="andres-lh" /></p>
+</div>
+
+<div align="center">
+  <h2 >Reach me</h2>
+  <a href="https://www.linkedin.com/in/andreslhz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 
