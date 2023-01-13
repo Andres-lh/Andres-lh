@@ -1,33 +1,50 @@
-<h1 align="center">Hello there, I'm Andres Lara</h1>
-<h3 align="center">I´m a full stack developer from Colombia who specializes in front-end development. I´m very creative and a passionate learner who loves to explore new technologies.</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/P0GMZKMhcY19SWdQhU/giphy.gif" width="100"/>
+  <h2>Hey there!</h2>
+  <h4> I'm Andres Lara a software developer who loves to create games and interactive applications</h3>
+</div>
 
-<h2 align="left">Skills</h2>
+<br/>
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<div align="center">
+  <h2>Skills</h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</div>
 
-<h2 align="left">Some of my repositories</h2>
-<a href="https://github.com/Andres-lh/Musical-Instruments-eCommerce">
-  <img align="center" style=""src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=Musical-Instruments-eCommerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
-</a>
-
-<a href="https://github.com/Andres-lh/MERN-Notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=MERN-Notes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
-</a>
+<br/>
+<div align="center">
+  <h2>Some of my repositories</h2>
+  
+  <a href="https://github.com/Andres-lh/Pong">
+    <img align="center" style=""src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=Pong&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
+    <a href="https://github.com/Andres-lh/MERN-Notes">
 
 <a href="https://github.com/Andres-lh/SpotifyClone">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=SpotifyClone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
 </a>
 
-<a href="https://github.com/Andres-lh/API-FIFA">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Andres-lh&repo=API-FIFA&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0E2650" />
-</a>
+</div>
+  
+<br/>
 
-<h2 align="left">Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres-lh&show_icons=true&locale=en&layout=compact" alt="andres-lh" /></p>
+<div align="center">
+  <h2 >Stats</h2>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andres-lh&show_icons=true&locale=en" alt="andres-lh" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andres-lh&show_icons=true&locale=en" alt="andres-lh" /></p>
 
-### Reach me
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-lara-921a691aa/)
+
+
+
 
 
