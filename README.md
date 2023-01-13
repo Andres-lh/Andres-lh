@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/S6lQkeOcLiRRAwTVol/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/P0GMZKMhcY19SWdQhU/giphy.gif" width="100"/>
   <h1>Hey there!</h1>
   <h3> I'm Andres Lara a software developer who loves to create games and interactive applications.</h3>
 </div>
