@@ -37,11 +37,6 @@
 <br/>
 
 <div align="center">
-  <h2 >Stats</h2>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andres-lh&show_icons=true&locale=en" alt="andres-lh" /></p>
-</div>
-
-<div align="center">
   <h2 >Reach me</h2>
   <a href="https://www.linkedin.com/in/andreslhz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
